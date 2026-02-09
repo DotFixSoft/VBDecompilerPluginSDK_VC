@@ -1,6 +1,6 @@
 # VB Decompiler Plugin SDK for Visual C++
 
-This repository contains the official Plugin Development Kit (SDK) for **VB Decompiler**, written in **Visual C++**.
+This repository contains the official Plugin Development Kit (SDK) for [**VB Decompiler**](https://www.vb-decompiler.org), written in **Visual C++**.
 
 This SDK allows you to create native DLL plugins that interact directly with the VB Decompiler core, enabling you to analyze, modify, or extend the decompiled code and internal structures of the application.
 
@@ -60,3 +60,4 @@ Permission is hereby granted to use, modify, and distribute this SDK for the pur
 ---
 Copyright (c) 2001-2026 **Sergey Chubchenko (DotFix Software)**. All rights reserved.
 [www.vb-decompiler.org](https://www.vb-decompiler.org)
+
