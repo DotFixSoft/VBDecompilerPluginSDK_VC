@@ -1,6 +1,6 @@
 /*
  *  VB Decompiler Plugin SDK
- *  Copyright (c) 2001-2026 DotFix Software. All rights reserved.
+ *  Copyright (c) 2001-2026 Sergey Chubchenko (DotFix Software). All rights reserved.
  *
  *  Website: https://www.vb-decompiler.org
  *  Support: admin@vb-decompiler.org
